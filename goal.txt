@@ -1,0 +1,21 @@
+1. field to put my JD
+2. Upload PDF
+3. pdf to image-->processing-->google gemini pro/openai
+4. prompts template[multiple prompts]
+5. chat with multiple pdfs
+
+// this is for me // don't mind this //
+
+conda activate ./venv
+
+pip install python-dotenv
+
+pip install \
+    python-dotenv \
+    openai \
+    streamlit \
+    pdf2image \
+    pillow \
+    python-docx
+
+streamlit run app.py
