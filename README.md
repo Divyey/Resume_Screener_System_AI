@@ -1,4 +1,10 @@
-# Resume Screener System AI 🧠📄
+# Resume Screener System AI 1.0 🧠📄 
+
+
+For 2.0 
+```
+https://github.com/Divyey/AI_Resume_Screener_System 
+```
 
 An AI-powered ATS (Applicant Tracking System) built with **Streamlit** and **OpenAI GPT-4o Vision** to analyze resumes (PDF) against job descriptions.
 
